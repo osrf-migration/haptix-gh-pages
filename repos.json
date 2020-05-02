@@ -1,0 +1,26 @@
+{
+    "osrf/handsim": {
+        "project_file": "data/repositories/osrf/handsim.json",
+        "project_path": "data/repositories/osrf/handsim/",
+        "is_fork": false,
+        "github_repo": "https://github.com/osrf/handsim"
+    },
+    "osrf/haptix-comm": {
+        "project_file": "data/repositories/osrf/haptix-comm.json",
+        "project_path": "data/repositories/osrf/haptix-comm/",
+        "is_fork": false,
+        "github_repo": "https://github.com/osrf/haptix-comm"
+    },
+    "osrf/haptix-tools": {
+        "project_file": "data/repositories/osrf/haptix-tools.json",
+        "project_path": "data/repositories/osrf/haptix-tools/",
+        "is_fork": false,
+        "github_repo": "https://github.com/osrf/haptix-tools"
+    },
+    "osrf/haptix_api": {
+        "project_file": "data/repositories/osrf/haptix_api.json",
+        "project_path": "data/repositories/osrf/haptix_api/",
+        "is_fork": false,
+        "github_repo": "https://github.com/osrf/haptix_api"
+    }
+}
